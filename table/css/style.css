@@ -1,0 +1,36 @@
+body {
+  min-height: 100%;
+  width: 100%; 
+}
+
+
+table {
+   margin: 40px 0;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+  padding: 2px;
+}
+
+thead,
+th {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.wrap {
+  width: 1100px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.one,
+.two {
+  width: 600px;
+  margin-left: 200px;
+}
+

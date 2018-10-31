@@ -1,0 +1,54 @@
+
+input {
+	border: solid 1px #ccc;
+ 	border-radius: 2px;
+}
+
+fieldset {
+	border: 1px solid;
+	border-color: #cccccc;
+}
+
+.margin {
+	margin: 1em 0;
+}
+
+.margin_bottom {
+	margin-bottom: 1em;
+}
+.button {
+	border: 1px solid;
+}
+.legend_bold,
+.label_bold {
+	font-weight: 700;
+}
+
+.container {
+	width: 780px;
+	margin: 0 auto;
+}
+
+.label_block {
+	display: block;
+}
+
+.input_years {
+	width: 55px;
+}
+
+.select {
+	height: 4em;
+}
+
+.small_text {
+	font-size: 13px;
+}
+
+.input_first_neme,
+.input_last_neme,
+.input_readonly,
+.input_email {
+	width: 250px;
+}
+
